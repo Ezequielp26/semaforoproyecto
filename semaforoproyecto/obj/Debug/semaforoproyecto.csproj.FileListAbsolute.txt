@@ -1,0 +1,5 @@
+C:\Users\Maezgaliz\source\repos\semaforoproyecto\semaforoproyecto\obj\Debug\semaforoproyecto.csprojResolveAssemblyReference.cache
+C:\Users\Maezgaliz\source\repos\semaforoproyecto\semaforoproyecto\obj\Debug\semaforoproyecto.Form1.resources
+C:\Users\Maezgaliz\source\repos\semaforoproyecto\semaforoproyecto\obj\Debug\semaforoproyecto.Properties.Resources.resources
+C:\Users\Maezgaliz\source\repos\semaforoproyecto\semaforoproyecto\obj\Debug\semaforoproyecto.csproj.GenerateResource.Cache
+C:\Users\Maezgaliz\source\repos\semaforoproyecto\semaforoproyecto\obj\Debug\semaforoproyecto.csproj.CoreCompileInputs.cache
